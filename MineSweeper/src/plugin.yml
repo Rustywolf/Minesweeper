@@ -1,0 +1,3 @@
+name: MineSweeper
+main: minesweeper.MineSweeper
+version: 1.0
